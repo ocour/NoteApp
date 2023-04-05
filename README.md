@@ -3,7 +3,7 @@ NoteApp which uses Material 3 components and dynamic color.
 
 Create, edit, delete and view notes.
 
-Uses Android Room to store Notes on device.
+Uses Android Room to store notes on device.
 
 Uses android app development best practices, such as:
 Uses UDF, UI and Data layers, Hilt DI, Navigation, Room database.
