@@ -7,7 +7,8 @@ Uses Android Room to store notes on device.
 
 Uses android app development best practices, such as:
 
-Uses UDF, UI and Data layers, Hilt DI, Navigation, Room database.
+
+Unidirectional data flow (UDF), UI and Data layers, Hilt DI, Navigation, Room database.
 
 Future changes:
 
