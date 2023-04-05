@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="navigate_back">Navigate back</string>
+    <string name="note_screen_title">NoteApp</string>
+    <string name="note_screen_fab_description">add note</string>
+    <string name="note_creation_screen_title">Create a note</string>
+    <string name="note_creation_screen_fab_desc">create the note</string>
+    <string name="note_title_field">Title</string>
+    <string name="note_content_field">Content</string>
+    <string name="note_title_required">Title is required.</string>
+    <string name="note_deletion_alert_title">Confirm note deletion.</string>
+    <string name="note_deletion_alert_content">Delete note titled \"%1$s\" ?</string>
+    <string name="note_edit_screen_title">Edit note</string>
+    <string name="note_edit_screen_fab_desc">save note edits</string>
+</resources>
